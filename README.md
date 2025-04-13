@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nika.
 - 👀 I’m interested in programming and guitar🎸
 - 🌱 I’m currently learning python, css, figma and js.
-- 📫 How to reach me: nikachoidze on discord, Nika chkoidze on facebook.
+- 📫 How to reach me: nikachkoidze on discord, Nika chkoidze on facebook.
 
   
 
